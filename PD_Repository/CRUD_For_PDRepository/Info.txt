@@ -1,0 +1,7 @@
+﻿
+¿Qué es el patron de diseño Repository?
+
+El patrón Repository actúa como una colección de objetos en memoria. 
+Las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) se realizan a través del repositorio,
+separando la lógica de acceso a datos de la lógica de negocio,
+en lugar de realizar las consultas directamente contra la base de datos.

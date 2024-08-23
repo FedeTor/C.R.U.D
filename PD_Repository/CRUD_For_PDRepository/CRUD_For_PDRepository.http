@@ -1,0 +1,6 @@
+@CRUD_For_PDRepository_HostAddress = http://localhost:5054
+
+GET {{CRUD_For_PDRepository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
